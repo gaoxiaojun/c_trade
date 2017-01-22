@@ -1,0 +1,18 @@
+[submodule "3rd/zlog"]
+	path = 3rd/zlog
+	url = https://github.com/HardySimpson/zlog.git
+[submodule "3rd/libuv"]
+	path = 3rd/libuv
+	url = https://github.com/libuv/libuv.git
+[submodule "3rd/uthash"]
+	path = 3rd/uthash
+	url = https://github.com/troydhanson/uthash.git
+[submodule "3rd/evt-tls"]
+	path = 3rd/evt-tls
+	url = https://github.com/deleisha/evt-tls.git
+[submodule "3rd/LuaJIT"]
+	path = 3rd/LuaJIT
+	url = https://github.com/LuaJIT/LuaJIT.git
+[submodule "3rd/state-threads"]
+	path = 3rd/state-threads
+	url = https://github.com/ossrs/state-threads.git
