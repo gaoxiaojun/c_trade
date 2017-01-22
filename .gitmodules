@@ -16,3 +16,6 @@
 [submodule "3rd/state-threads"]
 	path = 3rd/state-threads
 	url = https://github.com/ossrs/state-threads.git
+[submodule "3rd/jemalloc"]
+	path = 3rd/jemalloc
+	url = https://github.com/jemalloc/jemalloc.git
